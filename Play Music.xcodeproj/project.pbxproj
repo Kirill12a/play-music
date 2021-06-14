@@ -13,6 +13,7 @@
 		D20668202677771800F8048E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D206681E2677771800F8048E /* Main.storyboard */; };
 		D20668222677771E00F8048E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D20668212677771E00F8048E /* Assets.xcassets */; };
 		D20668252677771E00F8048E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D20668232677771E00F8048E /* LaunchScreen.storyboard */; };
+		D296EA7C26777D77003AE0D7 /* audio.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D296EA7B26777D77003AE0D7 /* audio.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		D20668212677771E00F8048E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D20668242677771E00F8048E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D20668262677771E00F8048E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D296EA7B26777D77003AE0D7 /* audio.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = audio.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		D20668172677771800F8048E /* Play Music */ = {
 			isa = PBXGroup;
 			children = (
+				D296EA7B26777D77003AE0D7 /* audio.mp3 */,
 				D20668182677771800F8048E /* AppDelegate.swift */,
 				D206681A2677771800F8048E /* SceneDelegate.swift */,
 				D206681C2677771800F8048E /* ViewController.swift */,
@@ -125,6 +128,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D20668252677771E00F8048E /* LaunchScreen.storyboard in Resources */,
+				D296EA7C26777D77003AE0D7 /* audio.mp3 in Resources */,
 				D20668222677771E00F8048E /* Assets.xcassets in Resources */,
 				D20668202677771800F8048E /* Main.storyboard in Resources */,
 			);
